@@ -1,0 +1,8 @@
+openapi: 3.0.3
+servers:
+- url: http://localhost:5091/
+  description: url Local
+- url: https://dev.nttdata.com/mswallet/
+  description: url Desarrollo
+- url: https://nttdata.com/mswallet/
+  description: url Produccion
